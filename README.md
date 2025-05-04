@@ -89,7 +89,7 @@ Evaluation is performed using accuracy, precision, recall, and F1-score.
 
 Clone the repo and install dependencies:
 
-git clone https://github.com/yourusername/face-mask-detection.git
+git clone https://github.com/derex-cmd/face-mask-detection.git
 cd face-mask-detection
 pip install -r requirements.txt
 
@@ -119,5 +119,6 @@ This project is licensed under the **MIT License**.
 
 ## 🙋 Contact
 
-**Developed by:** Omer Nasir
+**Developed by:** [Omer Nasir](https://github.com/derex-cmd) & [Ahad](https://github.com/ahad-must)  
 Reach out via GitHub or LinkedIn for collaboration or questions.
+
